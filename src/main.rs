@@ -1,3 +1,4 @@
+// Makes a binary crate (src/main.rs)
 fn main() {
-    println!("Hello, world!");
+    println!("Welcome to the Rust Coreutils!");
 }
